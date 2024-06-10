@@ -1,0 +1,26 @@
+# ÄRA KASVA SUUREKS
+# KUIDAS OLLA ÕNNELIK JA TÄITA OMA UNISTUSED?
+
+## TÄISKASVANUD ELAVAD KÕIKJAL, LAPSED AINULT HETKES
+
+Ma avaldan sulle ühe väga tähtsa saladuse, mida enamik täiskasvanuid ei mõista: elu leiab aset ainult praeguses hetkes. Minevik on juba olnud ja tulevik pole veel kohal. Täiskasvanud kipuvad elama kas minevikus toimunud sündmustele mõeldes või tulevikku planeerides. Sellisel viisil aga sa ei saa kunagi nautida hetke ja elada täiel rinnal. Kui sa ei ela täiel rinnal, siis sa ei saa olla kuigi õnnelik ega edukas.
+
+Lapsed seevastu elavad ainult käesolevas hetkes. Nemad ei planeeri pidevalt tulevikku ega analüüsi minevikus toimunut. Tundub, justkui täiskasvanud oleksid vahetanud elu elamise selle analüüsimise vastu. Nii võibki juhtuda, et sel ajal kui täiskasvanud plaane teevad, läheb samal hetkel elu nendest mööda.
+
+Samuti nagu minevikus kaevamine on ka tuleviku ennustamine tänamatu ja asjatu. Sa ei oska ealeski ette näha elu keerdkäike ja enda tulevikku ette planeerida. Elu mitmekesisus ja ettearvamatus lõhub alati sinu tehtud plaanid. Lapsed oskavad hetkes elada. Nad mängivad ennastunustavalt ja keskenduvad ainult siin ja praegu toimuvale.
+
+Ka sina peaksid seda lastelt õppima ja elama ainult käesolevas hetkes. Kujuta ette last, kes mängib oma mänguasjadega. Ta ei lase ennast segada. Ta tegutseb ennastunustavalt. Ta ei tunne süüd luhtunud varasemate mängude pärast. Samuti ei püüa ta ennustada, mida ta homme või ülehomme mängib. Ta keskendub jäägitult ainult praeguse hetke mängule. Täpselt samamoodi teevad täiskasvanud inimesed, kes on oma alal edukad. Iga eduka inimese saladus on jäägitu pühendumine oma tegevusele just praeguses hetkes. Ainult nii on võimalik lahendada meie ees seisvaid ülesandeid kvaliteetselt.
+
+Tihti võib tegevusetus olla sinu parim valik. Täiskasvanud üritavad teha kõike korraga, kiiresti ja efektiivselt. Kui täiskasvanu joob hommikukohvi, siis sõidab ta mõttes juba autoga tööle. Kui ta on autosse istunud, motleb ta aga juba enda lõunapausi sisustamisele. Selliselt tormates me ei märka õigeid lahendusi, mida on võimalik näha ainult hetkes elades, samas jättes endale aega ka tegevusetult olemiseks.
+
+Kui sa veedad aega ka täiesti mitte midagi tehes, siis lülitad sa enda aju justkui autopiloodilt välja ja su mõte saab hakata taas efektiivsemalt tööle. Näed enda probleeme uuest vaatenurgast, su loovus avaneb ja leiad täiesti uudseid lahendusi, mida sa varem ei märganud, kuna kiirustasid.
+
+Ühelt lapseliku suhtumisega edukalt ettevõtjalt küsiti kord, mida ta soovitaks teda praegu kuulavatele noortele, kes soovivad saada sama edukaks, kui tema seda on. Või mida ta soovitaks vanematele inimestele, kes sooviksid hakata ettevõtjaks. Edukas ettevõtja mõtles sekundi ja ütles, et tal on ainult üks soovitus: "Hakka kohe pihta!" Ajakirjanik küsis veel täpsustavaid küsimusi, et kuidas ikkagi erinevate projektide jaoks ettevalmistusi teha, mida õppida või kuhu pöörduda, kuid ettevõtja jäi endale kindlaks ja ütles uuesti vastuseks täpselt sama lause: "Hakka lihtsalt kohe praegu pihta!" Ta selgitas, et liigne targutamine, uurimine, ettevalmistamine ja muu viib fookuse põhiasjalt kõrvale ja ei lase keskenduda alustamisele.
+
+Kõige tähtsam on lihtsalt võtta kätte ja alustada, kuna maailm on täis suurepäraseid, kuid realiseerumata plaane ja häid kavatsusi. Ma saan tema nõuandest suurepäraselt aru! Iga teekonna kõige raskem hetk on alati esimene samm ehk alustamine.
+
+Täiskasvanud lükkavad pidevalt oma plaane tulevikku, kuid seda õiget hetke ei tulegi kunagi. Sa pead lihtsalt elama hetkes nagu laps, ja olema julge, kartmatu nagu laps ning hakkama kohe pihta! Planeerimine, kaalutlemine, mõtlemine - need kõik on väga täiskasvanulikud ja arukad tegevused, kuid need on tõelise tegevuse vastandid. Kui sa hakkad kohe pihta, alustad otsast, siis sa jõuad teel olles niikuinii piisavalt planeerida, kaalutleda ja mõelda. Plaane teha jõuad sa alati, aga kohe pihta hakkamise hetke ei tohi sa mööda lasta!
+
+Sa ei pea teadma, kus su tee lõppeb, vaid ainult seda, kus see algab. Mine lihtsalt edasi ja kui sa jõuad kohale, siis näed sa järgmisi võimalusi edasiminekuks. Teekonda alustamata ei saa sa kunagi teada, kuhu sa oleksid välja jõudnud.
+
+Iga inimene, kes on oma alal edukas, pühendub oma tegevusele jäägitult just käesolevas hetkes, täpselt nagu laps keskendub oma tegevusele ainult praeguses hetkes.
