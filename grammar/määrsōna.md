@@ -46,7 +46,7 @@
 | Kuhu? (Куда?)                     | Kus? (Где?)                          | Kust? (Откуда?)                      | 
 |-----------------------------------|--------------------------------------|--------------------------------------| 
 | ette (вперед)                     | ees (впереди)                        | eest (спереди)                       | 
-| sees (внутри)                     | seest (изнутри)                      | sisse (внутрь)                       |
+| sisse (внутрь)                    | sees (внутри)                        | seest (изнутри)                      |
 | taha (назад)                      | taga (позади)                        | tagant (сзади)                       |
 | maha (из, вниз, на пол)           | maas (внизу, на полу)                | maast (снизу, с пола)                |
 | välja (наружу, на улицу, во двор) | väljas (снаружи, на улице, во дворе) | väljast (снаружи, с улицы, со двора) |
@@ -55,7 +55,8 @@
 | kaugele (далеко)                  | kaugel (далеко)                      | kaugelt (издалека)                   |
 | kuskile / kuhugi (куда-то)        | kuskil (где-то)                      | kuskilt (откуда-то)                  |
 | kõikjale (повсюду, везде)         | kõikjal (повсюду, везде)             | kõikjalt (отовсюду)                  | 
-| mujale (в другое место            | mujal в другом месте                 | mujalt из другого места              |
+| mujale (в другое место)           | mujal (в другом месте)               | mujalt (из другого места)            |
+| võõrsile (на чужбину)             | võõrsil (на чужбине)                 | võõrsilt (с чужбины)                 |
 | kõrvale (в сторону)               | kõrval (в стороне)                   | kõrvalt (со стороны)                 |
 | keskele (в середину)              | keskel (в середине)                  | keskelt (из середины)                |
 | lähedale (близко)                 | lähedal (вблизи)                     | lähedalt (из недалека)               |
@@ -92,29 +93,31 @@ edasi (вперёд), tagasi (назад), kohati (местами) - тоже н
 - *Me tegime seda meeleldi. (Мы сделали это с удовольствием.)*
 - *Nad elavad sõbralikult. (Они живут дружно.)*
 
-| -STI                         | -LT                         | -LDI                     | -TI             |
-|------------------------------|-----------------------------|--------------------------|-----------------|
-| alasti (голышом)             | juhuslikult случайно        | ajaldi вовремя           | kohati местами  |
-| halvasti (плохо)             | julgelt (julgesti) смело    | eraldi отдельно          | lahti открыто   |
-| hästi (хорошо)               | kergelt (kergesti) легко    | meeleldi с удовольствием | pikuti вдоль    |
-| ilusti / ilusasti (красиво)  | korralikult порядочно       | pooleldi наполовину      | sügavuti вглубь |
-| julgesti (julgelt) смело     | kurvalt грустно             |                          |                 |
-| kergesti (kergelt) легко     | lahkelt (lahkesti) любезно  |                          |                 |
-| kiiresti (kiirelt) быстро    | lõbusalt (lõbusasti) весело |                          |                 |
-| lahkesti (lahkelt) любезно   | mugavalt (mugavasti) удобно |                          |                 |
-| lõbusasti (lõbusalt) весело  | rahulikult спокойно         |                          |                 |
-| mugavasti (mugavalt) удобно  | rõõmsalt (rõõmsasti) весело |                          |                 |
-| rõõmsasti (rõõmsalt) весело  | sõbralikult дружно          |                          |                 |
-| targasti (targalt) мудро     | täpselt точно               |                          |                 |
-| tublisti (tublilt) порядочно | vaikselt тихо               |                          |                 |
-| valjusti (valjult) громко    |                             |                          |                 |
+| -STI                           | -LT                           | -LDI                       | -TI                |
+|--------------------------------|-------------------------------|----------------------------|--------------------|
+| alasti (голышом)               | juhuslikult (случайно)        | ajaldi (вовремя)           | kohati (местами)   |
+| halvasti (плохо)               | julgelt / julgesti (смело)    | eraldi (отдельно)          | lahti (открыто)    |
+| hästi (хорошо)                 | kergelt / kergesti (легко)    | meeleldi (с удовольствием) | pikuti (вдоль)     |
+| ilusti / ilusasti (красиво)    | korralikult (порядочно)       | pooleldi (наполовину)      | sügavuti (вглубь)  |
+| julgesti / julgelt (смело)     | kurvalt (грустно)             |                            |                    |
+| kergesti / kergelt (легко)     | lahkelt / lahkesti (любезно)  |                            |                    |
+| kiiresti / kiirelt (быстро)    | lõbusalt / lõbusasti (весело) |                            |                    |
+| lahkesti / lahkelt (любезно)   | mugavalt / mugavasti (удобно) |                            |                    |
+| lõbusasti / lõbusalt (весело)  | rahulikult (спокойно)         |                            |                    |
+| mugavasti / mugavalt (удобно)  | rõõmsalt / rõõmsasti (весело) |                            |                    |
+| rõõmsasti / rõõmsalt (весело)  | sõbralikult (дружно)          |                            |                    |
+| targasti / targalt (мудро)     | täpselt (точно)               |                            |                    |
+| tublisti / tublilt (порядочно) | vaikselt (тихо)               |                            |                    |
+| valjusti / valjult (громко)    | aeglaselt (медленно)          |                            |                    |
+|                                | huvitavalt (интересно)        |                            |                    |
+|                                | tõsiselt (серьезно)           |                            |                    |
 
-| -TSI                       | -SI                 | -STIKKU                     | -LI                  | Другие                      |
-|----------------------------|---------------------|-----------------------------|----------------------|-----------------------------| 
-| käsitsi (вручную)          | jalgsi пешком       | järjestikku последовательно | kõhuli на животе     | purjus (в пьяном состоянии) |
-| meritsi (морем)            | naljatamisi шутливо | lähestikku поблизости       | külili на боку       | ruttu (быстро)              |
-| telefonitsi (по телефону)  | vägisi насильно     | reastikku в один ряд        | laiali рассеянно     |                             |
-|                            |                     | vastastikku взаимно         | põlvili на коленях   |                             |
+| -TSI                       | -SI                   | -STIKKU                       | -LI                  | Другие                      |
+|----------------------------|-----------------------|-------------------------------|----------------------|-----------------------------| 
+| käsitsi (вручную)          | jalgsi (пешком)       | järjestikku (последовательно) | kõhuli (на животе)   | purjus (в пьяном состоянии) |
+| meritsi (морем)            | naljatamisi (шутливо) | lähestikku (поблизости)       | külili (на боку)     | ruttu (быстро)              |
+| telefonitsi (по телефону)  | vägisi (насильно)     | reastikku (в один ряд)        | laiali (рассеянно)   |                             |
+|                            |                       | vastastikku (взаимно)         | põlvili (на коленях) |                             |
 
 ## Hulga-, määra- ja teised määrsõnad (Количественные и другие наречия)
 
