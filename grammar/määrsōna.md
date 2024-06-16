@@ -103,24 +103,30 @@ edasi (вперёд), tagasi (назад), kohati (местами) - тоже н
 - *Me tegime seda meeleldi. (Мы сделали это с удовольствием.)*
 - *Nad elavad sõbralikult. (Они живут дружно.)*
 
-| -STI                           | -LT                           | -LDI                       | -TI                |
-|--------------------------------|-------------------------------|----------------------------|--------------------|
-| alasti (голышом)               | juhuslikult (случайно)        | ajaldi (вовремя)           | kohati (местами)   |
-| halvasti (плохо)               | julgelt / julgesti (смело)    | eraldi (отдельно)          | lahti (открыто)    |
-| hästi (хорошо)                 | kergelt / kergesti (легко)    | meeleldi (с удовольствием) | pikuti (вдоль)     |
-| ilusti / ilusasti (красиво)    | korralikult (порядочно)       | pooleldi (наполовину)      | sügavuti (вглубь)  |
-| julgesti / julgelt (смело)     | kurvalt (грустно)             |                            |                    |
-| kergesti / kergelt (легко)     | lahkelt / lahkesti (любезно)  |                            |                    |
-| kiiresti / kiirelt (быстро)    | lõbusalt / lõbusasti (весело) |                            |                    |
-| lahkesti / lahkelt (любезно)   | mugavalt / mugavasti (удобно) |                            |                    |
-| lõbusasti / lõbusalt (весело)  | rahulikult (спокойно)         |                            |                    |
-| mugavasti / mugavalt (удобно)  | rõõmsalt / rõõmsasti (весело) |                            |                    |
-| rõõmsasti / rõõmsalt (весело)  | sõbralikult (дружно)          |                            |                    |
-| targasti / targalt (мудро)     | täpselt (точно)               |                            |                    |
-| tublisti / tublilt (порядочно) | vaikselt (тихо)               |                            |                    |
-| valjusti / valjult (громко)    | aeglaselt (медленно)          |                            |                    |
-|                                | huvitavalt (интересно)        |                            |                    |
-|                                | tõsiselt (серьезно)           |                            |                    |
+| -STI                               | -LT                              | -LDI                       | -TI                |
+|------------------------------------|----------------------------------|----------------------------|--------------------|
+| alasti (голышом)                   | juhuslikult (случайно)           | ajaldi (вовремя)           | kohati (местами)   |
+| halvasti (плохо)                   | julgelt / julgesti (смело)       | eraldi (отдельно)          | lahti (открыто)    |
+| hästi (хорошо)                     | kergelt / kergesti (легко)       | meeleldi (с удовольствием) | pikuti (вдоль)     |
+| ilusti / ilusasti (красиво)        | korralikult (порядочно)          | pooleldi (наполовину)      | sügavuti (вглубь)  |
+| julgesti / julgelt (смело)         | kurvalt (грустно)                |                            |                    |
+| kergesti / kergelt (легко)         | lahkelt / lahkesti (любезно)     |                            |                    |
+| kiiresti / kiirelt (быстро)        | lõbusalt / lõbusasti (весело)    |                            |                    |
+| lahkesti / lahkelt (любезно)       | mugavalt / mugavasti (удобно)    |                            |                    |
+| lõbusasti / lõbusalt (весело)      | rahulikult (спокойно)            |                            |                    |
+| mugavasti / mugavalt (удобно)      | rõõmsalt / rõõmsasti (весело)    |                            |                    |
+| rõõmsasti / rõõmsalt (весело)      | sõbralikult (дружно)             |                            |                    |
+| targasti / targalt (мудро)         | täpselt (точно)                  |                            |                    |
+| tublisti / tublilt (порядочно)     | vaikselt (тихо)                  |                            |                    |
+| valjusti / valjult (громко)        | aeglaselt (медленно)             |                            |                    |
+| hoolsasti / hoolsalt (тщательно)   | huvitavalt (интересно)           |                            |                    |
+| raskesti / raskelt (тяжело)        | tõsiselt (серьезно)              |                            |                    |
+|                                    | asjalikult (деловито)            |                            |                    |
+|                                    | viisakalt (вежливо)              |                            |                    |
+|                                    | hoolsalt / hoolsasti (тщательно) |                            |                    |
+|                                    | pikalt (долго)                   |                            |                    |
+|                                    | lühidalt (коротко)               |                            |                    |
+|                                    | raskelt / raskesti (тяжело)      |                            |                    |
 
 | -TSI                       | -SI                   | -STIKKU                       | -LI                  | Другие                      |
 |----------------------------|-----------------------|-------------------------------|----------------------|-----------------------------| 
@@ -189,3 +195,5 @@ edasi (вперёд), tagasi (назад), kohati (местами) - тоже н
 
 - *See on (milline?) hea treener. See treener on palju parem. (Это хороший тренер. Этот тренер намного лучше.)* - Это сравнительная степень прилагательного
 - *Ta teeb seda (kuidas?) hästi. Ta võiks seda paremini teha. (Он делает это хорошо. Он мог бы это лучше делать.)* - Это сравнительная степень наречия
+
+
