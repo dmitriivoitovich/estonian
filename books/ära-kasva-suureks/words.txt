@@ -122,7 +122,7 @@ häbelik - застенчивый
 teismeline - подросток
 eemale - в сторону
 saamise - получение
-eesmärgil - цель
+eesmärg - цель
 üha - все больше
 moodustas - составил
 kolmeliikmelise - трехчленный
@@ -149,3 +149,12 @@ mõistad - понимаешь
 takerduda - застрять
 vaeselt - бедно
 tundmatu - неизвестный
+usuvad - верят
+eesmärgi täitumiseni - до достижения цели
+Tegelikkus - Реальность
+keskenduma - сосредотачиваться
+Eranditult - без исключения
+valem - формула
+sundtegevus - принудительное действие
+kirglikult - страстно
+täie hingega
