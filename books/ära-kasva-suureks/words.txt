@@ -158,3 +158,8 @@ valem - формула
 sundtegevus - принудительное действие
 kirglikult - страстно
 täie hingega
+keskpärased - средние
+ei saavuta - не достигают
+vähimatki - никаких
+tuimalt - равнодушно
+väljapaistev - выдающийся
