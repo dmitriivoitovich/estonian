@@ -171,3 +171,4 @@ kokku puutuma - сталкиваться
 eristab - отличает
 vahe - разница
 mängleva kergusega - с легкостью
+kõikvoimalike - всевозможных
