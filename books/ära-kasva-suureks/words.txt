@@ -168,3 +168,6 @@ põnev - интересный
 pooleli jäi - осталось незаконченным
 niivõrd - настолько
 kokku puutuma - сталкиваться
+eristab - отличает
+vahe - разница
+mängleva kergusega - с легкостью
