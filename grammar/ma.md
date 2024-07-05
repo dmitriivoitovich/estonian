@@ -69,7 +69,7 @@
 - Hoiatasin neid sinna mitte minemast. (Я предупреждал их не ходить туда.) 
 - Hoiduge haigeks jäämast! (Берегитесь простуды!)
 - Aitäh kutsumast! (Спасибо за приглашение!) 
-- soitmast! (за приезд!)
+- sõitmast! (за приезд!)
 - aitamast! (за помощь!) 
 - lubamast! (за обещание!)
 
@@ -117,6 +117,8 @@
 | vaimustuma (восхищаться)         | Ma vaimustun heast muusikast. (Я восхищаюсь хорошей музыкой.)                                        |
 | väljuma (выходить, отправляться) | Laev väljub Tallinnast kell kolm. (Корабль отправляется из Таллинна в три часа.)                     |
 | väsima (уставать)                | Olen pidutsemisest väsinud. (Я устал от гулянья.)                                                    |
+| hoiduma (сторониться)            | Hoiduge haigeks jäämast! (Берегитесь простуды!)                                                      |
+| hoiatama (предупреждать)         | Hoiatasin neid sinna mitte minemast. (Я предупреждал их не ходить туда.)                             |
 
 
 ## -maks
