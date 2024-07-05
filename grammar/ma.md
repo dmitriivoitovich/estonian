@@ -1,6 +1,6 @@
-# Инфинитив на -ma 
+# -MA инфинитив 
 
-Инфинитив на -ma имеет пять падежных форм.
+-MA инфинитив имеет пять падежных форм:
 
 - Sissettlev -ma (kuhu?)
 - Seesütlev -ma + s (kus?)
@@ -43,6 +43,7 @@
 - Nägin Peetrit järjekorras seismas. (Я видел Петра стоящим в очереди.)
 - Nägin, et Peeter seisis järjekorras. (Я видел, что Петр стоял в очереди.)
 - Nägin Peetrit järjekorras seisvat. (Я видел, что Петр вроде бы стоял в очереди.)
+
 
 - Mäletan teda alati naermas. (Я помню его всегда смеющимся.) 
 - Mäletan, et ta naeris alati. (Я помню, что он всегда смеялся.) 
@@ -124,6 +125,7 @@
 
 - Inimene sööb, selleks et kaua elada. (Человек ест, чтобы жить долго.)
 - Inimene sööb elamaks kaua. (Для долгой жизни человек ест.)
+
 
 - Läksin juristi juurde, et saada konsultatsiooni. (Я пошел к юристу, чтобы получить консультацию.)
 - Läksin juristi juurde saamaks konsultatsiooni. (Я пошел к юристу для получения консультации.)
