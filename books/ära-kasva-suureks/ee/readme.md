@@ -5,12 +5,12 @@ Pühendatud minu kallile lapselikule abikaasale Jaanikale, kes julgustas mind se
 
 ### Sisukord
 
-1. [Eessõna](01.ee.md)
-2. [Sissejuhatus](02.ee.md)
-3. [TÄISKASVANUD ELAVAD KÕIKJAL, LAPSED AINULT HETKES](03.ee.md)
-4. [Lugu lapselikult hetkes elamisest - Rihanna](04.ee.md)
-5. [TÄISKASVANUD TÖÖTAVAD, LAPSED MÄNGIVAD](05.ee.md)
-6. [LUGU LAPSELIKULT MÄNGIMISEST - Thomas A. Edison](06.ee.md)
+1. [Eessõna](01.md)
+2. [Sissejuhatus](02.md)
+3. [TÄISKASVANUD ELAVAD KÕIKJAL, LAPSED AINULT HETKES](03.md)
+4. [Lugu lapselikult hetkes elamisest - Rihanna](04.md)
+5. [TÄISKASVANUD TÖÖTAVAD, LAPSED MÄNGIVAD](05.md)
+6. [Lugu lapselikult mängimisest - Thomas A. Edison](06.md)
 7. --
 8. --
 9. --
@@ -18,11 +18,11 @@ Pühendatud minu kallile lapselikule abikaasale Jaanikale, kes julgustas mind se
 11. --
 12. --
 13. --
-14. [LUGU LAPSELIKUST LIHTSUSEST - Mark Twain](14.ee.md)
+14. [Lugu lapselikust lihtsusest - Mark Twain](14.md)
 15. --
-16. [LUGU LAPSELIKULT LÕBUTSEMISEST - John Lennon](16.ee.md)
+16. [Lugu lapselikult lõbutsemisest - John Lennon](16.md)
 17. --
-18. [LUGU LAPSELIKULT PÜHENDUMISEST - Neil Armstrong](18.ee.md)
+18. [Lugu lapselikult pühendumisest - Neil Armstrong](18.md)
 19. --
 20. --
 21. --
@@ -44,7 +44,7 @@ Pühendatud minu kallile lapselikule abikaasale Jaanikale, kes julgustas mind se
 37. --
 38. --
 39. --
-40. [LUGU LAPSELIKULT USKUMISEST - Jeesus Kristus](40.ee.md)
+40. [Lugu lapselikult uskumisest - Jeesus Kristus](40.md)
 41. --
 42. --
 43. --
@@ -70,7 +70,7 @@ Pühendatud minu kallile lapselikule abikaasale Jaanikale, kes julgustas mind se
 63. --
 64. --
 65. --
-66. [LUGU LAPSELIKUST AUSUSEST - Abraham Lincoln](66.ee.md)
+66. [Lugu lapselikust aususest - Abraham Lincoln](66.md)
 67. --
 68. -- 
 69. --
