@@ -173,3 +173,4 @@ vahe - разница
 mängleva kergusega - с легкостью
 kõikvoimalike - всевозможных
 mõttekoht - обстоятельство для размышления, загвоздка
+hüüdnime - прозвище
