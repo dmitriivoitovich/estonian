@@ -58,7 +58,7 @@ Pühendatud minu kallile lapselikule abikaasale Jaanikale, kes julgustas mind se
 51. --
 52. --
 53. --
-54. --
+54. [Lugu lapselikult lihtsalt elamisest - Steve Jobs](54.md)
 55. --
 56. --
 57. --
