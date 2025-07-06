@@ -57,3 +57,20 @@
 13. varuma, varuda, varub - запасать, готовить
 14. kild, killu, kildu - осколок, кусочек
 
+
+## Laused uute sõnadega
+
+1. Mina pole sellega päriselt nõus. (Я с этим совершенно не согласен.)
+2. Kui keegi teeb kasvõi sammu, lendame kõik vastu taevast. (Если кто-то сделает хоть шаг, мы все взлетим в воздух.)
+3. Pidu venis ja mul tuli tahtmine varvast visata. (Вечеринка затянулась, и я почувствовал, что пора сваливать.)
+4. Ära istu lahtise akna all! (Не сиди под открытым окном!)
+5. Kümme lisakilo lennutasid mu kohe ülekaaluliste hulka. (Десять лишних килограммов сразу же отправили меня в группу людей с избыточным весом.)
+6. Rebi salatilehed tükkideks ja lisa toidule. (Порвите на кусочки листья салата и добавьте в блюдо.)
+7. Minu õhuke tekk ei pakkunud külmadel öödel kuigi palju sooja. (Тонкое одеяло не могло согреть меня холодными ночами.)
+8. Laps on meie ihu ja veri. (Ребенок - это наша плоть и кровь.)
+9. Mesi pani sõrmed kleepuma. (Мед склеил пальцы.)
+10. Mees tundus neile pisut kahtlane. (Мужчина показался им слегка подозрительным.)
+11. Teatud asjaolude sunnil ei saa ma kauem siin viibida. (Ввиду сложившихся обстоятельств я не могу здесь больше оставаться.)
+12. Meie saatus on meie kätes. (Наша судьба в наших руках.)
+13. Tuleb varuda kannatust. (Нужно запастись терпением.)
+14. Killud toovad õnne. (Осколки приносят счастье.)
