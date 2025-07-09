@@ -1,5 +1,6 @@
 # [SHANON - Varbad liivas (Пальцы в песке)](https://www.youtube.com/watch?v=JXPEk9NHMpk)
 
+![](img/shanon_varbad_liivas.jpg)
 
 | Eesti                                    | Перевод                                        |
 |------------------------------------------|------------------------------------------------|
