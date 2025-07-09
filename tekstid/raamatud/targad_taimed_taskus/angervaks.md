@@ -2,7 +2,7 @@
 
 ## Filipendula ulmaria (Таволга вязолистная)
 
-![Angervaks](angervaks.jpeg)
+![Angervaks](img/angervaks.jpeg)
 
 Enne jaanipäeva hakkab meie maa lõhnama kaneeli järgi (корицей), õitseb (цветет) angervaks. See taim on lopsakam (более пышный) niiskel (на влажной) pinnasel (почве): soostunud (заболоченной) metsaservas (окраина леса), lepavõpsikus (в зарослях ольхи), kraavipervel (на склоне канавы). Suur kreemjasvalge õiepuhmas (соцветие, плотное спопление цветков) ja meeldiv lõhn teeb taime leidmise lihtsaks. Kasvab 1,5 - 1,8 m kõrguseks, tumerohelised lehed meenutavad (напоминают) pisut (немного) jalakalehti (листья вяза), tipmine (верхний) leht teistest tavaliselt suurem.
 
