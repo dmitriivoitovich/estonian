@@ -28,7 +28,6 @@
 | Põhjuseid on selleks üle saja               | На то больше сотни причин                      |
 | Mul pole isu, miskit kaasa ei kisu          | У меня нет аппетита, ничто не привлекает       |
 | Vahin filme, millel pole sisu               | Смотрю бессмысленные фильмы                    |
-|                                             |                                                |
 
 
 ## Uus sõnavara
