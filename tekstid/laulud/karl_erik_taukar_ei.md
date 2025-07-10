@@ -60,3 +60,8 @@
 
 ## Laused uute sõnadega
 
+1. Õhtul hämaras hakkasid hiired nurgas piiksuma. (Вечером в полумраке в углу начали пищать мыши.)
+2. Aknad olid paksult härmas. (Окна были плотно покрыты инеем.)
+3. Linnutees toimus tugev gammakiirguse sähvatus. (В галактике Млечный Путь произошла сильная вспышка гамма-излучения.)
+4. Jalg takerdus maha langenud puu taha. (Нога зацепилась за упавшее дерево.)
+5. Tema põletav uudishimu sai valusa löögi. (По его жгучему любопытству был нанесен болезненный удар.)
