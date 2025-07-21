@@ -17,3 +17,45 @@ Nõges tõstab noortel emadel rinnapiima hulka ja korrastab maksa ainevahetust. 
 
 ## Uus sõnavara
 
+1. nõges, nõgese, nõgest - крапива
+2. kõrvenõges, kõrvenõgese, kõrvenõgest - крапива двудомная
+3. tuntum, tuntuma, tuntumat - более известный
+4. isegi - даже
+5. kõrvetav, kõrvetava, kõrvetavat - жгучий, обжигающий
+6. võim, võimu, võimu - сила, мощь
+7. matkaja, matkaja, matkajat - путешественник, турист
+8. säär, sääre, säärt - голень, нога
+9. kihelema, kihelda, kiheleb - зудеть, чесаться
+10. kupla - покрытый волдырями
+11. tulitama, tulitada, tulitab - жечь, пылать
+12. ununema, ununeda, ununeb - забываться, затмеваться
+13. karm, karmi, karmi - суровый, жесткий
+14. tutvustus, tutvustuse, tutvustust - знакомство, представление
+15. küllap - вероятно, должно быть
+16. mõju, mõju, mõju - эффект, действие
+17. tõttu - из-за, вследствие
+18. levitama, levitada, levitab - распространять, разносить
+19. kõikjal - повсюду, везде
+20. tava, tava, tava - обычай, традиция
+21. peenestama, peenestada, peenestab - измельчать, мелко резать
+22. kupatama, kupatada, kupatab - отваривать, обдавать кипятком
+23. toorjuust, toorjuustu, toorjuustu - невыдержанный сыр, творог
+24. ravi, ravi, ravi - лечение, терапия
+25. tarvitama, tarvitada, tarvitab - употреблять, использовать
+26. vars, varre, vart - стебель, стебель крапивы
+27. õisik, õisiku, õisikuid - соцветие, цветок
+28. kimp, kimbu, kimpu - пучок, связка
+29. nõrk, nõrga, nõrka - слабый
+30. seedimine, seedimise, seedimist - пищеварение
+31. lahtisti, lahtisti, lahtistit - слабительное
+32. kuseteed, kuseteede, kuseteed - мочевыводящие пути
+33. põletik, põletiku, põletikku - воспаление
+34. laskma, lasta, laseb - давать, позволять
+35. tõmbama, tõmmata, tõmbab - настаивать
+36. rinnapiim, rinnapiima, rinnapiima - грудное молоко
+37. hulka - намного, значительно
+38. korrastama, korrastada, korrastab - приводить в порядок, налаживать
+39. ainevahetus, ainevahetuse, ainevahetust - обмен веществ
+40. verehüüve, verehüübe, verehüüvet - тромб, сгусток крови
+41. ravikuur, ravikuuri, ravikuuri - курс лечения
+42. võrse, võrse, võrset - побег, росток
