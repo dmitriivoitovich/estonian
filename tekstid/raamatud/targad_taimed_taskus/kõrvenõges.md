@@ -48,7 +48,7 @@ Nõges tõstab noortel emadel rinnapiima hulka ja korrastab maksa ainevahetust. 
 29. nõrk, nõrga, nõrka - слабый
 30. seedimine, seedimise, seedimist - пищеварение
 31. lahtisti, lahtisti, lahtistit - слабительное
-32. kuseteed, kuseteede, kuseteed - мочевыводящие пути
+32. kuseteed, kuseteede, kuseteid - мочевыводящие пути
 33. põletik, põletiku, põletikku - воспаление
 34. laskma, lasta, laseb - давать, позволять
 35. tõmbama, tõmmata, tõmbab - настаивать
